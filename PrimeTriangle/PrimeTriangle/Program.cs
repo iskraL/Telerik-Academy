@@ -11,7 +11,7 @@ namespace PrimeTriangle
         static void Main(string[] args)
         {
             int input = int.Parse(Console.ReadLine());
-            Console.WriteLine();
+
 
             List<int> sequence = new List<int>();
             List<int> sequencePrimes = new List<int>();
